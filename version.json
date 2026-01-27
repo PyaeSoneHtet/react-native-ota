@@ -1,0 +1,8 @@
+{
+  "android": {
+    "version": "1.0.3",
+    "bundle": "index.android.bundle.enc",
+    "minAppVersion": "1.0.0",
+    "sha256": "OPTIONAL_HASH"
+  }
+}
