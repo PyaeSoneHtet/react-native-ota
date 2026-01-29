@@ -2,7 +2,7 @@
   "version": "1.0.11",
   "build": 2,
   "android": {
-    "bundle": "https://raw.githubusercontent.com/YOUR_ORG/YOUR_REPO/main/ota/android/index.android.bundle.enc",
+    "bundle": "https://github.com/PyaeSoneHtet/react-native-ota/blob/main/android/index.android.bundle.enc",
     "sha256": "PUT_HASH_FROM_SCRIPT_HERE"
   }
 }
