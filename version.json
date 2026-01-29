@@ -3,6 +3,6 @@
   "build": 2,
   "android": {
     "bundle": "https://github.com/PyaeSoneHtet/react-native-ota/blob/main/android/index.android.bundle.enc",
-    "sha256": "PUT_HASH_FROM_SCRIPT_HERE"
+    "sha256": "348fa56e7f6aa01658c061a8bf7d61f9cea13282a59ddaf7dd6f6ab381d1c5ad"
   }
 }
