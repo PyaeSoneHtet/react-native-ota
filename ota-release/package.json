@@ -1,0 +1,8 @@
+{
+  "name": "ota-encrypt",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}

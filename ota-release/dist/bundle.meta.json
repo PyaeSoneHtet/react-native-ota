@@ -1,0 +1,8 @@
+{
+  "version": "1",
+  "salt": "2026-01-android-prod",
+  "algo": "AES-256-GCM",
+  "ivSize": 12,
+  "tagSize": 16,
+  "createdAt": "2026-01-29T07:56:22.393Z"
+}

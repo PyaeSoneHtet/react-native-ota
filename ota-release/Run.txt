@@ -1,0 +1,6 @@
+export NATIVE_PART="A9x_Q!"
+export JS_PART="Zm9@"
+export BUILD_SALT="2026-01-android-prod"
+export KEY_VERSION="1"
+
+node encrypt.js
